@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Arya
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning 
+- 🌱 Learning cutting edge technologies 
 - 📫 Contact Me :- ankit.aryam01@gmail.com
 
 <!---
