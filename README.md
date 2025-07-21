@@ -31,7 +31,7 @@
 
 ## 🧑‍💻 Projects
 
-🔹 **[Blogify API](https://github.com/ankit-aryam/blogify-api)**  
+🔹 **[Blogify API](https://github.com/ankit-aryam/blog-app)**  
 A full-stack backend application with JWT Security, Redis Caching, Docker support, and AI blog generation via LLM.  
 Tech Used: Spring Boot, Redis, MySQL, Ollama (Mistral)
 
@@ -39,8 +39,8 @@ Tech Used: Spring Boot, Redis, MySQL, Ollama (Mistral)
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ankit-arya-5b4741181)
-- 📧 ankitarya.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankit-arya-5b4741181/)
+- 📧 mandyarya2848@gmail.com
 - 💻 [My GitHub Projects](https://github.com/ankit-aryam?tab=repositories)
 
 ---
